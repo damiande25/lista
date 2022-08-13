@@ -1,144 +1,277 @@
-#EXTINF:-1  group-title="General", TNT SPORT 2 " tvg-logo="http://vplay.club:8888/images/5819d50621ec4b62696747589caf55d2.png" 
+#EXTINF:-1  group-title="General", A3SERIES
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=130&f=.m3u8
+
+#EXTINF:-1 tvg-id="AANDE.MX" tvg-name="A&E" tvg-logo="" group-title="General",A&E
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/1
+
+#EXTINF:-1 tvg-id="AXN.MX" tvg-name="AXN" tvg-logo="" group-title="General",AXN
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/2
+
+#EXTINF:-1  group-title="General", AXN
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=78&f=.m3u8
+
+#EXTINF:-1  group-title="General", Animal Planet
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=94&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="General",AMC
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/6
+
+#EXTINF:-1  group-title="General", AMC
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=82&f=.m3u8
+
+#EXTINF:-1  group-title="General", Cartoon Network
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=114&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal" tvg-logo="" group-title="General",Cine Canal
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/19
+
+#EXTINF:-1  group-title="General", Cinemax
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=43&f=.m3u8
+
+#EXTINF:-1  group-title="General", Cinecanal
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=44&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="General",Cine Latino
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/20
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="General",Comedy Central
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/29
+
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="" group-title="General",CSI Miami
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/253
+
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="" group-title="General",De Pelicula Plus
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/34
+
+#EXTINF:-1  group-title="General", DiscoveryChannel
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=95&f=.m3u8
+
+#EXTINF:-1  group-title="General", Discovery Turbo
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=96&f=.m3u8
+
+#EXTINF:-1  group-title="General", Discovery HYH
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=97&f=.m3u8
+
+#EXTINF:-1  group-title="General", IDInvestigation
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=98&f=.m3u8
+
+#EXTINF:-1  group-title="General", Discovery World
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=102&f=.m3u8
+
+#EXTINF:-1  group-title="General", Discovery SCI
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=139&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/36
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-logo="" group-title="General",Discovery Home and Health
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/37
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/38
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="General",Discovery Science
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/39
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/40
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="General",Discovery Turbo
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/41
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="General",Discovery World
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/42
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="General",Disney
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/43
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="General",Disney JR
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/44
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="General",Disney XD
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/45
+
+#EXTINF:-1  group-title="General", !E
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=103&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="General",El Gourmet
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/47
+
+#EXTINF:-1  group-title="General", ElTrece
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=46&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="General",Futurama
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/280
+
+#EXTINF:-1  group-title="General", FX
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=70&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Game Of Throne" tvg-logo="" group-title="General",Game Of Throne
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/279
+
+#EXTINF:-1  group-title="General", Golden
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=73&f=.m3u8
+
+#EXTINF:-1  group-title="General", GOLDEN EDGE
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=74&f=.m3u8
+
+#EXTINF:-1  group-title="General", GOLDEN PREMIER
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=75&f=.m3u8
+
+#EXTINF:-1  group-title="General", History
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=49&f=.m3u8
+
+#EXTINF:-1  group-title="General", History2
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=50&f=.m3u8
+
+#EXTINF:-1  group-title="General",I SAT
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=86&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="" group-title="General",Los Simpsons#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/276
+
+#EXTINF:-1  group-title="General", MTV
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=87&f=.m3u8
+
+#EXTINF:-1  group-title="General", MTV HIT
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=88&f=.m3u8
+
+#EXTINF:-1  group-title="General", NatGeo
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=92&f=.m3u8
+
+#EXTINF:-1  group-title="General", Nick
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=112&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Terror" tvg-logo="" group-title="General",Peliculas Terror
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/268
+
+#EXTINF:-1  group-title="General", Terror 24/7
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=196&f=.m3u8
+
+#EXTINF:-1  group-title="General", Sony Channel
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=77&f=.m3u8
+
+#EXTINF:-1  group-title="General", Sony
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=266&f=.m3u8
+
+#EXTINF:-1  group-title="General", Space
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=39&f=.m3u8
+
+#EXTINF:-1  group-title="General", Star Channel
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=42&f=.m3u8
+
+#EXTINF:-1  group-title="General", Syfy
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=58&f=.m3u8
+
+#EXTINF:-1  group-title="General", Telefe
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=45&f=.m3u8
+
+#EXTINF:-1  group-title="General", TNT
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=41&f=.m3u8
+
+#EXTINF:-1  group-title="General", TNTSeries
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=76&f=.m3u8
+
+#EXTINF:-1  group-title="General", Universal Channel
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=79&f=.m3u8
+
+#EXTINF:-1  group-title="General", Studio Universal
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=80&f=.m3u8
+
+#EXTINF:-1  group-title="General", Universal Reality
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=68&f=.m3u8
+
+#EXTINF:-1  group-title="General", WarnerBrosTV HD
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=40&f=.m3u8
+
+#EXTINF:-1  group-title="General", Wanner TV
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=341&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="General",Claro Sports
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/27
+
+#EXTINF:-1  group-title="General", DirectvSports
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=21&f=.m3u8
+
+#EXTINF:-1  group-title="General", DirectvSports
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=256&f=.m3u8
+
+#EXTINF:-1  group-title="General",MX | Espn Deportes
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=16&f=.m3u8
+
+#EXTINF:-1  group-title="General",AR | Espn
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=17&f=.m3u8
+
+#EXTINF:-1  group-title="General", Espn 2
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=18&f=.m3u8
+
+#EXTINF:-1  group-title="General",AR | ESPN 2
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=250&f=.m3u8
+
+#EXTINF:-1  group-title="General", espn3
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=19&f=.m3u8
+
+#EXTINF:-1  group-title="General", ESPN 4
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=167&f=.m3u8
+
+#EXTINF:-1  group-title="General", EspnPlus
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=37&f=.m3u8
+
+#EXTINF:-1  group-title="General",AR | Espn Premium
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=10&f=.m3u8
+
+#EXTINF:-1  group-title="General",AR | Espn Premium
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=255&f=.m3u8
+
+#EXTINF:-1  group-title="General",AR | FoxSports
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=12&f=.m3u8
+
+#EXTINF:-1  group-title="General",MX | Fox Sports Premium
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=24&f=.m3u8
+
+#EXTINF:-1  group-title="General", Fox Sports 2
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=20&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Deportes" tvg-logo="" group-title="General",MX | Fox Deportes
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/417
+
+#EXTINF:-1 tvg-id="" tvg-name="movistar liga de Campeones" tvg-logo="" group-title="General",movistar liga de Campeones
+#EXTVLCOPT:http-user-agent=paraplayer
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/357
+
+#EXTINF:-1  group-title="General", TNT Sports
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=9&f=.m3u8
+
+#EXTINF:-1  group-title="General", TNT SPORT 2
 http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=254&f=.m3u8
 
-#EXTINF:-1  group-title="General", TYCSports " tvg-logo="http://vplay.club:8888/images/10003df43502634612255e3cac8cf2d0.png"
+#EXTINF:-1  group-title="General", TYCSports
 http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=11&f=.m3u8
 
-#EXTINF:-1  group-title="General", TyC Sport " tvg-logo="http://vplay.club:8888/images/10003df43502634612255e3cac8cf2d0.png"
+#EXTINF:-1  group-title="General", TyC Sport
 http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=258&f=.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | AMERICA 24 (1)" tvg-logo="http://vplay.club:8888/images/19e661d70979f890bfd58531650ea26c.png" group-title="ARGENTINA",ARGENTINA | AMERICA 24 (1)
-http://mivacuna-sispro.info:8888/567/567/69934
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | EL TRECE (1)" tvg-logo="http://vplay.club:8888/images/0097c9d5f7dd6e222f29045736515d73.png" group-title="ARGENTINA",ARGENTINA | EL TRECE (1)
-http://mivacuna-sispro.info:8888/567/567/70030
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEFE (1)" tvg-logo="http://vplay.club:8888/images/d64a45008d5338c3446a509e8d515c3c.png" group-title="ARGENTINA",ARGENTINA | TELEFE (1)
-http://mivacuna-sispro.info:8888/567/567/70160
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | C5N HD (5)" tvg-logo="http://vplay.club:8888/images/342034bc22282cd958548b821fc2232b.png" group-title="ARGENTINA",ARGENTINA | C5N HD (5)
-http://mivacuna-sispro.info:8888/567/567/49045
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | A24 HD (4)" tvg-logo="http://vplay.club:8888/images/19e661d70979f890bfd58531650ea26c.png" group-title="ARGENTINA",ARGENTINA | A24 HD (4)
-http://mivacuna-sispro.info:8888/567/567/49049
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CRONICA (5)" tvg-logo="http://vplay.club:8888/images/8744081e460028c94c3a7ac5454b45ec.png" group-title="ARGENTINA",ARGENTINA | CRONICA (5)
-http://mivacuna-sispro.info:8888/567/567/70268
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CN 24/7 (3)" tvg-logo="http://vplay.club:8888/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="ARGENTINA",ARGENTINA | CN 24/7 (3)
-http://mivacuna-sispro.info:8888/567/567/49100
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | GARAGE TV SD (3)" tvg-logo="http://vplay.club:8888/images/d58da817a2f297c5ce6c78bf3d18f3ee.png" group-title="ARGENTINA",ARGENTINA | GARAGE TV SD (3)
-http://mivacuna-sispro.info:8888/567/567/49101
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | MUSIC TOP (3)" tvg-logo="http://vplay.club:8888/images/017a5752628246e87c82358342345881.png" group-title="ARGENTINA",ARGENTINA | MUSIC TOP (3)
-http://mivacuna-sispro.info:8888/567/567/49102
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ (1)" tvg-logo="http://vplay.club:8888/images/4a71106e228ba206fac95c718a9e389e.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STARZ (1)
-http://mivacuna-sispro.info:8888/567/567/70474
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE (1)" tvg-logo="http://vplay.club:8888/images/d2aeb2ba5fe13789ed3f33e85ee568ef.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STARZ ENCORE (1)
-http://mivacuna-sispro.info:8888/567/567/70475
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ EGDE (1)" tvg-logo="http://vplay.club:8888/images/0bc74a3b8166bc9e9338e958af0285b2.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STARZ EGDE (1)
-http://mivacuna-sispro.info:8888/567/567/70476
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ COMEDY (1)" tvg-logo="http://vplay.club:8888/images/9ddc776ce1df88425a9d1ca0fb77edc7.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STARZ COMEDY (1)
-http://mivacuna-sispro.info:8888/567/567/70477
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ SUSPENSE (1)" tvg-logo="http://vplay.club:8888/images/324c8d5f876d45cae6c3db4409cf1652.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STARZ SUSPENSE (1)
-http://mivacuna-sispro.info:8888/567/567/70478
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR ACTION (1)" tvg-logo="http://vplay.club:8888/images/2ec4c70da6da6ae46e08ec530153d7e7.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR ACTION (1)
-http://mivacuna-sispro.info:8888/567/567/70481
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL (1)" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR CHANNEL (1)
-http://mivacuna-sispro.info:8888/567/567/70488
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR SERIES (1)" tvg-logo="http://vplay.club:8888/images/7dd95dc075e228e5bd67e9ef0db14a03.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR SERIES (1)
-http://mivacuna-sispro.info:8888/567/567/70495
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO (1)" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO (1)
-http://mivacuna-sispro.info:8888/567/567/70496
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO PLUS (1)" tvg-logo="http://vplay.club:8888/images/3ad6f23f18989b6d2750960ecdc0fda2.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO PLUS (1)
-http://mivacuna-sispro.info:8888/567/567/70497
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD  | HBO 2 MOVIL (6)" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD  | HBO 2 MOVIL (6)
-http://mivacuna-sispro.info:8888/567/567/70498
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO + (1)" tvg-logo="http://vplay.club:8888/images/3ad6f23f18989b6d2750960ecdc0fda2.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO + (1)
-http://mivacuna-sispro.info:8888/567/567/70500
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO (1)" tvg-logo="http://vplay.club:8888/images/67b5430b80be3d73e276868679d50e1d.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO (1)
-http://mivacuna-sispro.info:8888/567/567/70502
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL (1)" tvg-logo="http://vplay.club:8888/images/4cd4e670f9fb7f426cbf9d3e59b86c8f.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR CHANNEL (1)
-http://mivacuna-sispro.info:8888/567/567/70517
-#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | STAR CINEMA (1)" tvg-logo="http://vplay.club:8888/images/440fa83a02505db064a4cfac5222824b.png" group-title="CINE HD (ESP) CINEMA HD",CINE FULL HD | STAR CINEMA (1)
-http://mivacuna-sispro.info:8888/567/567/70519
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR COMEDY (6)" tvg-logo="http://vplay.club:8888/images/1b2c0b6b7f1e3d25e5d705b9adbbd6be.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR COMEDY (6)
-http://mivacuna-sispro.info:8888/567/567/70520
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR FUN (6)" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR FUN (6)
-http://mivacuna-sispro.info:8888/567/567/70521
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR SERIES (1)" tvg-logo="http://vplay.club:8888/images/7dd95dc075e228e5bd67e9ef0db14a03.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR SERIES (1)
-http://mivacuna-sispro.info:8888/567/567/70523
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO (1)" tvg-logo="http://vplay.club:8888/images/91f0581c21b08992162709c90ad3cea8.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO (1)
-http://mivacuna-sispro.info:8888/567/567/70524
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO 2 (6)" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO 2 (6)
-http://mivacuna-sispro.info:8888/567/567/70525
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO PLUS (1)" tvg-logo="http://vplay.club:8888/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO PLUS (1)
-http://mivacuna-sispro.info:8888/567/567/70528
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO POP HD (1)" tvg-logo="http://vplay.club:8888/images/5e6fed1706a52f16ba8adb0709c9ba2f.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO POP HD (1)
-http://mivacuna-sispro.info:8888/567/567/70529
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO XTREME (6)" tvg-logo="http://vplay.club:8888/images/4abe5dbf1d26a337162bbf509b67897b.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO XTREME (6)
-http://mivacuna-sispro.info:8888/567/567/70531
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO XTREME (6)" tvg-logo="http://vplay.club:8888/images/4abe5dbf1d26a337162bbf509b67897b.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO XTREME (6)
-http://mivacuna-sispro.info:8888/567/567/48767
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO POP FULL HD (6)" tvg-logo="http://vplay.club:8888/images/19ab9c79a0b4c617457afdc07c1b06ef.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO POP FULL HD (6)
-http://mivacuna-sispro.info:8888/567/567/48766
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO POP SD (6)" tvg-logo="http://vplay.club:8888/images/19ab9c79a0b4c617457afdc07c1b06ef.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO POP SD (6)
-http://mivacuna-sispro.info:8888/567/567/48765
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO MUNDI (CO) (6)" tvg-logo="http://vplay.club:8888/images/ab86b4ceaeaaa7eb0a024f0ea4db479e.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO MUNDI (CO) (6)
-http://mivacuna-sispro.info:8888/567/567/48764
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO SIGNATURE FULL HD (6)" tvg-logo="http://vplay.club:8888/images/a1b78744a7165bf7144e36b9e3de7af7.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO SIGNATURE FULL HD (6)
-http://mivacuna-sispro.info:8888/567/567/48761
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO SIGNATURE OPC 2 (6)" tvg-logo="http://vplay.club:8888/images/a1b78744a7165bf7144e36b9e3de7af7.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO SIGNATURE OPC 2 (6)
-http://mivacuna-sispro.info:8888/567/567/48759
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO 2 FULL HD (6)" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO 2 FULL HD (6)
-http://mivacuna-sispro.info:8888/567/567/48749
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO 2 SD (6)" tvg-logo="http://vplay.club:8888/images/01efb8d134da4071edd7552f4b04817b.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | HBO 2 SD (6)
-http://mivacuna-sispro.info:8888/567/567/48747
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PREMIER FULL HD (6)" tvg-logo="http://vplay.club:8888/images/74219e77187d8a857d138208f97567c3.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | GOLDEN PREMIER FULL HD (6)
-http://mivacuna-sispro.info:8888/567/567/48739
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR SERIES FHD (6)" tvg-logo="http://vplay.club:8888/images/7dd95dc075e228e5bd67e9ef0db14a03.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR SERIES FHD (6)
-http://mivacuna-sispro.info:8888/567/567/48726
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR FUN (MOVIL) (6)" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR FUN (MOVIL) (6)
-http://mivacuna-sispro.info:8888/567/567/48717
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR FUN FHD (6)" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR FUN FHD (6)
-http://mivacuna-sispro.info:8888/567/567/48714
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR FUN HD (6)" tvg-logo="http://vplay.club:8888/images/da4656fce03a8676fb8ac8c2f7041e64.png" group-title="CINE HD (ESP) CINEMA HD",CINE HD | STAR FUN HD (6)
-http://mivacuna-sispro.info:8888/567/567/48713
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CANAL 26 (3)" tvg-logo="http://vplay.club:8888/images/b8862fc9b81a8f8b1cae55377e3c2209.png" group-title="ARGENTINA",ARGENTINA | CANAL 26 (3)
-http://mivacuna-sispro.info:8888/567/567/70164
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | QUIERO MUSICA (5)" tvg-logo="http://vplay.club:8888/images/17bc35a3ce43e5e73cf08abd5e3c4212.png" group-title="ARGENTINA",ARGENTINA | QUIERO MUSICA (5)
-http://mivacuna-sispro.info:8888/567/567/96120
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | LN+ (5)" tvg-logo="http://vplay.club:8888/images/c8493aaf7b564149221cc0f07c7e4d63.png" group-title="ARGENTINA",ARGENTINA | LN+ (5)
-http://mivacuna-sispro.info:8888/567/567/96122
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | DEPORTV (5)" tvg-logo="http://vplay.club:8888/images/1a44dc1e2a00943993e50417375fb29f.png" group-title="ARGENTINA",ARGENTINA | DEPORTV (5)
-http://mivacuna-sispro.info:8888/567/567/96123
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | AMERICA FHD (5)" tvg-logo="http://vplay.club:8888/images/a2ec2e0909830e0b1350daf4c4f3a305.png" group-title="ARGENTINA",ARGENTINA | AMERICA FHD (5)
-http://mivacuna-sispro.info:8888/567/567/96157
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CRONICA (5)" tvg-logo="http://vplay.club:8888/images/84aaf8616b8ccb4bd9b6ed3098f23149.png" group-title="ARGENTINA",ARGENTINA | CRONICA (5)
-http://mivacuna-sispro.info:8888/567/567/96160
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TYC SPORTS INTERNACIONAL (5)" tvg-logo="http://vplay.club:8888/images/42584dbfa211d8331425970b724fe628.png" group-title="ARGENTINA",ARGENTINA | TYC SPORTS INTERNACIONAL (5)
-http://mivacuna-sispro.info:8888/567/567/96164
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA  | CANAL 13 (5)" tvg-logo="http://vplay.club:8888/images/9595368b8ea39b62b440666f8023513f.png" group-title="ARGENTINA",ARGENTINA  | CANAL 13 (5)
-http://mivacuna-sispro.info:8888/567/567/96168
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | FOX SPORTS PREMIUM (5)" tvg-logo="http://vplay.club:8888/images/2a903f5d1f9f09a8fdb19d710202e669.png" group-title="ARGENTINA",ARGENTINA | FOX SPORTS PREMIUM (5)
-http://mivacuna-sispro.info:8888/567/567/96165
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TV PUBLICA HD (5)" tvg-logo="http://vplay.club:8888/images/050ab119b24c91ab39409952d62aae09.png" group-title="ARGENTINA",ARGENTINA | TV PUBLICA HD (5)
-http://mivacuna-sispro.info:8888/567/567/96158
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TNT SPORTS ARGENTINA (1)" tvg-logo="http://vplay.club:8888/images/5819d50621ec4b62696747589caf55d2.png" group-title="ARGENTINA",ARGENTINA | TNT SPORTS ARGENTINA (1)
-http://mivacuna-sispro.info:8888/567/567/70565
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | EL NUEVE (1)" tvg-logo="http://vplay.club:8888/images/3425f46763c2911049e46b9d6599e03e.png" group-title="ARGENTINA",ARGENTINA | EL NUEVE (1)
-http://mivacuna-sispro.info:8888/567/567/70034
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TYC SPORTS HD (1)" tvg-logo="http://vplay.club:8888/images/10003df43502634612255e3cac8cf2d0.png" group-title="ARGENTINA",ARGENTINA | TYC SPORTS HD (1)
-http://mivacuna-sispro.info:8888/567/567/69904
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TN NOTICIAS (4)" tvg-logo="http://vplay.club:8888/images/f37d9c48996f95672979ecf46fc10052.png" group-title="ARGENTINA",ARGENTINA | TN NOTICIAS (4)
-http://mivacuna-sispro.info:8888/567/567/132869
-
